@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  graficas.web:
+    image: ${DOCKER_REGISTRY-}graficasweb
+    build:
+      context: .
+      dockerfile: Graficas.WEB/Dockerfile
