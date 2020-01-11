@@ -1,14 +1,8 @@
 # Graficas
 Aplicación en ASP.NET Core MVC que muestra el uso de C3.js para dibujar gráficas
 
-- [Instalación](#Instalacion)
-- [Ejecución](#Ejecucion)
+- [Instalación y Ejecución](#Ejecucion)
 
-# Instalacion
-```bash
-sudo 
-$ docker-compose build
-```
 # Ejecucion
 
 ```bash
